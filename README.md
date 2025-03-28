@@ -1,2 +1,1 @@
 Hello world
-git pull
